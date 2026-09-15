@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = 'instantprachi/jenkins-docker-task'
+        DOCKER_IMAGE = 'mayuriii12/jenkins-docker-task'
     }
 
     stages {
